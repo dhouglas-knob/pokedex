@@ -1,29 +1,17 @@
-# pokedex-vue
+# pokedex_vue
+Aplicação full stack de uma Pokédex moderna construída em Vue.js e Node.js. Implementa renderização reativa de dados, arquitetura modular e gerenciamento de informações via base local em JSON
 
-This template should help get you started developing with Vue 3 in Vite.
+# Pokédex Full Stack (Vue.js + Node.js)
 
-## Recommended IDE Setup
+Aplicação interativa de Pokédex desenvolvida para consolidar conceitos essenciais de desenvolvimento web full stack, combinando a reatividade do ecossistema **Vue.js** com a estrutura de serviços assíncronos do **Node.js**, consumindo e gerenciando dados através de arquivos JSON.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### Ferramentas Utilizadas
+- **Frontend:** Vue.js (Componentes, Reatividade, Eventos)
+- **Backend:** Node.js (Serviço local / APIs / Manipulação de JSON)
+- **Dados:** Base estruturada em JSON (PokéAPI)
+- **Estilização:** CSS3 / Flexbox
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+### Funcionalidades
+- [x] Listagem e busca dinâmica de Pokémon
+- [x] Abas com gerações diversificadas
+- [x] Consumo modular de dados JSON via Node.js / Vue

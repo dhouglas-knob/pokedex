@@ -15,6 +15,7 @@ import BarraNavegacao from './componentes/BarraNavegacao.vue';
   <BarraNavegacao></BarraNavegacao>
 
   <RouterView />
+  <p>jkdsfhksjdhf</p>
 
 </template>
 
